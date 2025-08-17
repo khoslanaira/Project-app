@@ -1,6 +1,6 @@
-# Bellavita Organic Gifting Page
+#  Gifting Page
 
-A complete React-based e-commerce page replica of the Bellavita Organic Gifting section, featuring interactive product displays, category filtering, customer testimonials, FAQ section, and comprehensive footer.
+A complete React-based e-commerce page replica of the  Gifting section, featuring interactive product displays, category filtering, customer testimonials, FAQ section, and comprehensive footer.
 
 ## 🚀 Live Demo
 
